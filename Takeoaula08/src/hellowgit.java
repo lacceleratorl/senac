@@ -3,6 +3,6 @@ public class hellowgit {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hellow git hub");
+		System.out.println("Hello github");
 	}
 }
